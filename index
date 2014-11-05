@@ -1,0 +1,21 @@
+<html>
+<head>
+<meta charset=utf-8 />
+<link href="animate.css-master/animate.css"
+rel="stylesheet" />
+<head>
+<body>
+<h1 class="animated rotateInDownRight">ola turma</h1>
+<div class="areadejogo">
+    <img src="images/bot.png" alt="bot"  id="boneco">
+  </div>
+
+<div class="wow bounceInUp">  Content to Reveal Here  </div >
+
+<script src="js/octocat"></script>
+<script>
+ new WOW().init();
+</script>
+
+</body>
+</html>
